@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Pranavcodes24x7&theme=darkhub&row=1&column=7&margin-h=15&margin-w=5&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy-phi-jet.vercel.app/?username=Pranavcodes24x7&theme=darkhub&row=1&column=7&margin-h=15&margin-w=5&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
