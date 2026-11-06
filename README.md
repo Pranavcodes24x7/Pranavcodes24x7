@@ -4,10 +4,15 @@
 
 </div>
 
-![](https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif) **Github Stats**
+<div align="center">
 
-| ![Stats](https://github-readme-stats.vercel.app/api?username=Pranavcodes24x7&show_icons=true&include_all_commits=true&theme=highcontrast&hide_border=true&border_radius=5) | ![Streak](https://streak-stats.demolab.com?user=Pranavcodes24x7&theme=highcontrast&hide_border=true&border_radius=5) |
-| --- | --- |
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contributions" />
+
+<img src="./profile-summary-card-output/github_dark/3-stats.svg" width="49%" alt="Stats" />
+<img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" alt="Top languages" />
+
+</div>
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&duration=3000&pause=200&color=b30000&width=435&lines=Pranav+Kaushik;Developer;CSE+%40+VIT+Chennai)](https://git.io/typing-svg)
 
@@ -57,6 +62,3 @@ I'm a Computer Science undergraduate at **VIT Chennai** (B.Tech CSE, 2026–2030
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/Pranavcodes24x7/Pranavcodes24x7/output/github-contribution-grid-snake-dark.svg)
-
-</div>
