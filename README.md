@@ -6,13 +6,12 @@
 
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contributions" />
+<img src="https://raw.githubusercontent.com/Pranavcodes24x7/Pranavcodes24x7/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake" />
 
 <img src="./profile-summary-card-output/github_dark/3-stats.svg" width="49%" alt="Stats" />
 <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" alt="Top languages" />
 
 </div>
-
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&duration=3000&pause=200&color=b30000&width=435&lines=Pranav+Kaushik;Developer;CSE+%40+VIT+Chennai)](https://git.io/typing-svg)
 
